@@ -1,0 +1,66 @@
+.firstline{
+    display: flex;
+    margin-top: 0;
+
+   justify-content: space-between;
+   align-items: baseline;
+  
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 1.5em;
+    font-size: 18px;
+}
+a{
+
+    text-decoration: none;
+    color: #f7f7f7ab;
+    font-size: 16px;
+    font-family: 'Zen Loop', cursive;
+   
+   }
+   .links{
+       display: flex;
+   }
+   .logo{
+    font-family: 'Dancing Script', cursive;
+    color: #f0e3e3;
+    font-size: 24px;
+    display: flex;
+}
+.header{
+    background-color: rgb(20, 18, 114);
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+body{
+    display:flex;
+    flex-direction: column;
+    background-color:#cacf9b;
+    height: 100vh;
+    margin: 0;
+}
+ul.links{
+    padding-right: 1cm;
+    
+}
+div.logo{
+    padding-left: 1cm;
+    background-color: inherit;
+}
+input{
+    align-items: center;
+    width: 40%;
+    height: 1cm;
+  
+   
+}  
+.mid{
+    margin-left: 10cm;
+    margin-right: 10cm;
+}        
+.carte1{
+
+}
