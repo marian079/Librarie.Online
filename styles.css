@@ -89,7 +89,7 @@ input{
  
 }
 .imagine{
-    height: 7cm;
+    height: 6cm;
     width: auto;
 }
 
@@ -119,4 +119,41 @@ input{
     color:red;
     font-size: 0.8cm;
 }
+.prezentare-carte{
+    display: flex;
+    margin: 1.5cm;
+    background-color: #CFB284;
+    justify-content: center;
+    gap: 2.5cm;
+    background-color: #FFEFCB;
+   
 
+}
+#imagine{
+    height: 12cm;
+    width: auto;
+    border:0.2cm;
+    border-style: solid;
+    border-color: black;
+    border-width: 0.01cm;
+}
+#stanga{
+    display: flex;
+}
+#dreapta{
+    display: flex;
+    flex-direction:column;
+    gap: 1.5cm;
+    font-size: 20px;
+    width: 50%;
+    border:0.2cm;
+    border-style: solid;
+    border-color: black;
+    border-width: 0.01cm;
+    padding: 1cm;
+}
+.titlu{
+    font-size: 27px;
+    font-family: 'Arvo', serif;
+    font-weight: 700;
+}
