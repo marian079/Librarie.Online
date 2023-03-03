@@ -139,6 +139,7 @@ input{
     border-color: black;
     border-width: 0.01cm;
         display: flex;
+       
         
         
 }
@@ -149,6 +150,7 @@ input{
     flex-direction:column;
     margin-right: 1.5cm;
     gap: 0.5cm;
+    margin-top: 0.5cm;
     
 }
 #dreapta{
@@ -162,6 +164,7 @@ input{
     border-width: 0.01cm;
     padding: 1cm;
     width: 40%;
+    margin-top: 0.5cm;
 }
 #titlu{
     font-size: 27px;
