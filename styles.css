@@ -200,11 +200,11 @@ input{
    flex-direction: column;
     background-color: #f0e3e3;
     align-items: center;
-    
-
+    gap: 0.7cm;
+    padding: 0.5cm;
 }
 #imagine1{
- height: 11cm;
+ height: 10cm;
  width: auto;   
 }
 .prezentare #titlu{
